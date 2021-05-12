@@ -1,0 +1,12 @@
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\bin\Debug\App BDS 201.exe.config
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\bin\Debug\App BDS 201.exe
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\bin\Debug\App BDS 201.pdb
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App BDS 201.csprojAssemblyReference.cache
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App_BDS_201.Form1.resources
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App_BDS_201.Properties.Resources.resources
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App BDS 201.csproj.GenerateResource.cache
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App BDS 201.csproj.CoreCompileInputs.cache
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App BDS 201.exe
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App BDS 201.pdb
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App_BDS_201.Form2.resources
+D:\Database System\Lab\Assign2\App BDS 201\App BDS 201\obj\Debug\App_BDS_201.Form3.resources
